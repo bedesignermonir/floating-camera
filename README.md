@@ -22,11 +22,16 @@ Install Libraries:
 Open your Command Prompt (search for "cmd" in the Windows search bar and open it).
 Type the following commands one by one and press Enter after each:
 Bash
+<br>
 
 pip install opencv-python
+<br>
 pip install numpy
+<br>
 pip install Pillow
+<br>
 pip install tk
+<br>
 opencv-python: This is the library we'll use to capture video from your webcam and process image data.
 numpy: This is a fundamental library for numerical operations in Python, often used with OpenCV.
 Pillow (PIL Fork): This will help us with image manipulation, specifically for creating the circular mask.
